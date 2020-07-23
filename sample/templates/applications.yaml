@@ -1,0 +1,1 @@
+{{ tpl .Values.env (dict "Values" .Values "Env" "foo") }}
